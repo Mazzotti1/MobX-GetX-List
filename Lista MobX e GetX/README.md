@@ -1,4 +1,4 @@
-# trilhaapp
+# Flutter
 
 A new Flutter project.
 
